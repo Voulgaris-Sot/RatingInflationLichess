@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{Alliot}
+Jean-Marc Alliot.
+\newblock Who is the master?
+\newblock {\em ICGA Journal}, 39(1), 2017.
+\newblock DOI 10.3233/ICG-160012.
+
+\bibitem{drosophilia}
+Nathan Ensmenger.
+\newblock Is chess the drosophila of artificial intelligence? a social history
+  of an algorithm.
+\newblock {\em Social Studies of Science}, 42(1):5--30, 2012.
+
+\bibitem{glicko2}
+Mark~E. Glickman.
+\newblock The glicko system.
+\newblock 2011.
+
+\bibitem{Guid}
+Matej Guid and Ivan Bratko.
+\newblock Using heuristic-search based engines for estimating human skill at
+  chess.
+\newblock {\em J. Int. Comput. Games Assoc.}, 34:71--81, 2011.
+
+\bibitem{icr}
+Kenneth Regan and Guy Haworth.
+\newblock Intrinsic chess ratings, 2011.
+
+\end{thebibliography}
